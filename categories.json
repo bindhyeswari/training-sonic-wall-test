@@ -1,0 +1,348 @@
+[
+  {
+    "id": "1296594",
+    "subtitle": "",
+    "title": "Panini Royale",
+    "__typename": "StoreMenuCategory"
+  },
+  {
+    "id": "1296259",
+    "subtitle": "Choose your blend.",
+    "title": "Our Bowls",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10036447",
+        "description": "Acai, strawberries, banana, blueberries, mangoes.",
+        "isTempDeactivated": null,
+        "price": 499,
+        "imageUrl": null,
+        "name": "Acai Blend",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10036446",
+        "description": "Dragon, strawberries, bananas, pineapple, mangoes.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Dragon Blend",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296547",
+    "subtitle": "",
+    "title": "Steel Cut Oats",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10038772",
+        "description": "Brown sugar, additions.",
+        "isTempDeactivated": null,
+        "price": 299,
+        "imageUrl": null,
+        "name": "Raw Oats",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038789",
+        "description": "Peach, honey almond butter sauce.",
+        "isTempDeactivated": null,
+        "price": 399,
+        "imageUrl": null,
+        "name": "Peaches N Cream",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038802",
+        "description": "Cocoa granola, almond, banana, cocoa almond butter sauce.",
+        "isTempDeactivated": null,
+        "price": 499,
+        "imageUrl": null,
+        "name": "Cocoa Crunch",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038814",
+        "description": "Green apple, pecan, almond butter sauce.",
+        "isTempDeactivated": null,
+        "price": 499,
+        "imageUrl": null,
+        "name": "Johnny Apple Cinnamon",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038823",
+        "description": "Banana, walnut, almond, almond butter sauce.",
+        "isTempDeactivated": null,
+        "price": 499,
+        "imageUrl": null,
+        "name": "Bananarama Nut",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038837",
+        "description": "Strawberry, blueberry, almond, pecan, almond butter sauce.",
+        "isTempDeactivated": null,
+        "price": 499,
+        "imageUrl": null,
+        "name": "Nuts N Berries",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296455",
+    "subtitle": "",
+    "title": "Nitro Brew",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10038057",
+        "description": "Stumptown nitrogen-infused cold brew, creating an ultra rich, guinnes-like mouthfeel.",
+        "isTempDeactivated": null,
+        "price": 449,
+        "imageUrl": null,
+        "name": "Nitro-Infused Cold Brew",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296441",
+    "subtitle": "",
+    "title": "Cold Brews",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10037741",
+        "description": "Complex, smooth and sweet, full bodied with a long chocolate finish.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Original Cold Brew",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10037799",
+        "description": "Smooth, cream and refreshing brew with a hint of mint and house made vanilla creamer.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Creamy Mint Cold Brew",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10037831",
+        "description": "Creamy, sweet and smooth brew infused with vanilla cream.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Vanilla Cream Cold Brew",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296258",
+    "subtitle": "",
+    "title": "Protein Shakes",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10036445",
+        "description": "Cocoa, almond milk, banana, cinnamon, & honey.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Cocoa Pro",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10036442",
+        "description": "Peanut butter, whey protein, almond milk, bananas, cinnamon, & honey.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Chunky Monkey",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10036444",
+        "description": "Peanut butter, strawberry, almond milk, banana, honey.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Pb N Jammin'",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10036443",
+        "description": "Vanilla, almond milk, banana, cinnamon, honey.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Thrilla In Vanilla",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296425",
+    "subtitle": "",
+    "title": "Pour over Coffee",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10037573",
+        "description": "Blueberry, honey, coocolate.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Ethiopia Sidamo",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10037613",
+        "description": "Fruit tea, honey, chocolate, mandarin.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Guatemala Wyakan",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10037637",
+        "description": "Sweet lemon with a creamy mouthfeel.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Water Tower Decaf",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296434",
+    "subtitle": "",
+    "title": "Espresso",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10037688",
+        "description": "Dark chocolate, cherry, almond.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Latte / Cappuccino",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296563",
+    "subtitle": "",
+    "title": "Black Tea",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10038869",
+        "description": "Black tea 56%, green tea 20%, papaya, rose hip peel, flavoring, sunflower blossoms.",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Magic Moon Blend",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296567",
+    "subtitle": "",
+    "title": "Green Tea",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10038883",
+        "description": "",
+        "isTempDeactivated": null,
+        "price": 349,
+        "imageUrl": null,
+        "name": "Jasmin Dragon Tea",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296570",
+    "subtitle": "",
+    "title": "Fruit Tea",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10038903",
+        "description": "Tropical blend of mango, orange, pineapple, marigold blossoms.",
+        "isTempDeactivated": null,
+        "price": 249,
+        "imageUrl": null,
+        "name": "Mango and Friends",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038918",
+        "description": "Pineapple, mango, hibiscus.",
+        "isTempDeactivated": null,
+        "price": 249,
+        "imageUrl": null,
+        "name": "Tropic Mountain",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  },
+  {
+    "id": "1296508",
+    "subtitle": "",
+    "title": "Juices & Smoothies",
+    "__typename": "StoreMenuCategory",
+    "items": [
+      {
+        "id": "10038378",
+        "description": "Peach, mango, strawberry, passion fruit juice, lemonade.",
+        "isTempDeactivated": null,
+        "price": 499,
+        "imageUrl": null,
+        "name": "Peach Party",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038419",
+        "description": "Dragonfruit, mango, strawberry, banana, lemonade, coconut milk, pomegrante juice.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Red Dragon",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038672",
+        "description": "Acai, mango, strawberry, banana, lemonade, coconut milk, pomegrante juice.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Omega",
+        "__typename": "StoreMenuListItem"
+      },
+      {
+        "id": "10038719",
+        "description": "Spinach, kale, green apple, cucumber, mint, lemonade, coconut milk.",
+        "isTempDeactivated": null,
+        "price": 599,
+        "imageUrl": null,
+        "name": "Detox",
+        "__typename": "StoreMenuListItem"
+      }
+    ]
+  }
+]
